@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /_astro/
+Disallow: /archive/?tag=
+Disallow: /archive/?category=
+Disallow: /archive/?uncategorized=
+
+Sitemap: https://oiqng.github.io/sitemap-index.xml
